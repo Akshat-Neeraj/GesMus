@@ -1,0 +1,35 @@
+All Rights Reserved
+
+Copyright (c) 2026 Akshat Neeraj
+
+This project, including all source code, design, and content
+("the Software"), is the property of the copyright holder named
+above. All rights are reserved.
+
+Permission is NOT granted to any person to copy, modify, merge,
+publish, distribute, sublicense, sell, or otherwise use copies of
+the Software, in whole or in part, without prior written permission
+from the copyright holder.
+
+You ARE permitted to:
+- View the Software's public-facing deployed site for personal use
+- Reference this repository for portfolio/educational discussion,
+  with credit to the original author and a link back to this
+  repository
+
+You are NOT permitted to:
+- Copy, redistribute, or republish this code (in original,
+  modified, or minified/obfuscated form) as your own project
+- Use this code, in whole or substantial part, in a commercial
+  product without permission
+- Remove or obscure this notice from any copy of the Software
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+To request permission for uses beyond what's listed above, contact
+the copyright holder directly.
